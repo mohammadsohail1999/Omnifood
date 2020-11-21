@@ -1,0 +1,70 @@
+
+
+/* Only small phones */
+
+@media only screen and (max-width:480px){
+
+
+
+
+
+
+
+
+} 
+
+/* Only smaller than ipads*/
+
+@media only screen and (max-width:767px){
+
+
+
+
+
+
+
+
+} 
+
+/* Large screens */
+@media only screen and (max-width:1023px){
+
+    
+    body{
+        font-size: 18px;
+    }
+.hero-text-box {
+        text-align: center;
+        padding: 0 2%; 
+        width: 100%
+      
+      }
+    section{
+        padding: 60px 0;
+    }
+
+
+
+
+
+
+
+} 
+
+
+/* larger screens */
+@media only screen and (max-width:1200px){
+    
+      .row{
+             
+        padding: 0 2%;
+
+      }
+
+
+
+
+
+
+
+} 
